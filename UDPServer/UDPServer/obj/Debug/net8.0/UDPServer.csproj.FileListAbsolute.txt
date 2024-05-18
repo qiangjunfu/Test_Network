@@ -1,0 +1,14 @@
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\bin\Debug\net8.0\UDPServer.exe
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\bin\Debug\net8.0\UDPServer.deps.json
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\bin\Debug\net8.0\UDPServer.runtimeconfig.json
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\bin\Debug\net8.0\UDPServer.dll
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\bin\Debug\net8.0\UDPServer.pdb
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\obj\Debug\net8.0\UDPServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\obj\Debug\net8.0\UDPServer.AssemblyInfoInputs.cache
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\obj\Debug\net8.0\UDPServer.AssemblyInfo.cs
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\obj\Debug\net8.0\UDPServer.csproj.CoreCompileInputs.cache
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\obj\Debug\net8.0\UDPServer.dll
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\obj\Debug\net8.0\refint\UDPServer.dll
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\obj\Debug\net8.0\UDPServer.pdb
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\obj\Debug\net8.0\UDPServer.genruntimeconfig.cache
+D:\UnityProject\ZZ_CSharp\UDPServer\UDPServer\obj\Debug\net8.0\ref\UDPServer.dll
